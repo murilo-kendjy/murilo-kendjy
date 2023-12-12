@@ -1,9 +1,15 @@
-Hello World! I'm actually a Full Stack Dev with a passion for Backend Development.
+# Hello World! 👋
 
-My Tech Stack:
-   - Frontend: HTML, CSS, JavaScript/TypeScript (Angular)
-   - Backend: Node.js (Express, NestJS)
-   - Database: PostgreSQL, MySQL
-   - Tools: Git, Docker, nginx, Redis, Jira, Jest
+I'm Murilo Kendjy, a passionate Full Stack Developer with a focus on Backend Development.
 
-Currently studying C
+## My Tech Stack:
+- **Frontend:** HTML, CSS, JavaScript/TypeScript (Angular), Tailwind CSS
+- **Backend:** Node.js (Express, NestJS), REST API, Swagger
+- **Database:** PostgreSQL, MySQL
+- **Tools:** Git, Docker, nginx, Redis, Jira, Jest
+
+## What I Do:
+- Develop REST APIs using Node.js
+- Design user interfaces using Angular
+
+📚 **Currently studying:** C
