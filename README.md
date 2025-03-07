@@ -1,15 +1,15 @@
 # Hello World! 👋
 
-I'm Murilo Kendjy, a passionate Full Stack Developer with a focus on Backend Development.
+I'm Murilo Kendjy, a Backend Developer who knows the full stack, from designing scalable backend solutions to building frontend interfaces when needed.
 
 ## My Tech Stack:
-- **Frontend:** HTML, CSS, JavaScript/TypeScript (Angular), Tailwind CSS
-- **Backend:** Node.js (Express, NestJS), REST API, Swagger
+- **Frontend:** HTML, CSS, JavaScript/TypeScript (Angular, React), Tailwind CSS
+- **Backend:** Node.js (Express, Fastify, NestJS), REST API, Swagger
 - **Database:** PostgreSQL, MySQL
-- **Tools:** Git, Docker, nginx, Redis, Jira, Jest
+- **Tools & Infrastructure:** Docker, Nginx, Redis, RabbitMQ, Jest, Grafana, Loki, Jira, Git
 
 ## What I Do:
-- Develop REST APIs using Node.js
-- Design user interfaces using Angular
+- Build REST APIs, backend utilities, and automation with Node.js
+- Design user interfaces using Angular/React
 
-📚 **Currently studying:** C
+📚 **Currently studying:** Go and AWS
